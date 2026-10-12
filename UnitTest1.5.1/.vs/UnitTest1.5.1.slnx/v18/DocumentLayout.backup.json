@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS projects\\5.1\\UnitTest1.5.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89C0113-EE33-DA33-0EAD-7AE395CB15AC}|UnitTest1.5.1.vcxproj|D:\\VS projects\\5.1\\UnitTest1.5.1\\UnitTest1.5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D89C0113-EE33-DA33-0EAD-7AE395CB15AC}|UnitTest1.5.1.vcxproj|solutionrelative:UnitTest1.5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.5.1.cpp",
+              "DocumentMoniker": "D:\\VS projects\\5.1\\UnitTest1.5.1\\UnitTest1.5.1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1.5.1.cpp",
+              "ToolTip": "D:\\VS projects\\5.1\\UnitTest1.5.1\\UnitTest1.5.1.cpp",
+              "RelativeToolTip": "UnitTest1.5.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-12T16:37:07.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
